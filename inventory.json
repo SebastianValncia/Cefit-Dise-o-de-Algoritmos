@@ -1,0 +1,10 @@
+{
+    "sal": {
+        "cantidad": 10,
+        "precio": 100.0
+    },
+    "carne": {
+        "cantidad": 50,
+        "precio": 100.0
+    }
+}
